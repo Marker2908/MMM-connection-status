@@ -20,6 +20,7 @@ Module.register('MMM-connection-status', {
       'en': 'translations/en.json',
       'id': 'translations/id.json',
 	  'es': 'translations/es.json'
+	   'de': 'translations/de.json'
     };
 	},
 
